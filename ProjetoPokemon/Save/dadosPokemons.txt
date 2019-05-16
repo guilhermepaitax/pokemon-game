@@ -1,0 +1,7 @@
+1;Charizard;90,5;1,7;Final;Charizard_XY.gif;100;0;1;10;12;Fire,Flying;16;12
+2;Bulbasaur;6,9;0,7;Ivysaur;Bulbasaur_XY.gif;100;0;3;5;3;Grass,Poison;4;7
+3;Ivysaur;13;1;Venusaur;Ivysaur_XY.gif;100;0;3;6;4;Grass,Poison;6;11
+4;Blastoise;85,5;1,6;Final;Blastoise_XY.gif;100;0;4;19;12;Water;25;38
+5;Mega Charizard X;100;19;Final;Charizard_MegaX_XY.gif;100;0;2;14;14;Fire,Flying;29;23
+6;Charmander;85;61;Charmeleon;Charmander_XY.gif;100;0;2;4;3;Fire;5;8
+7;Charmeleon;19;11;Charizard;7Charmeleon_XY.gif;100;0;1;4;5;Fire;9;7
